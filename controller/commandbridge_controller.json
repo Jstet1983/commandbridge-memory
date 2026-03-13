@@ -1,0 +1,14 @@
+{
+  "controller_version": "1.0.0",
+  "mode": "safe_expert",
+  "created_utc": "2026-03-13T09:20:49Z",
+  "agents": {
+    "MC": {},
+    "Scotty": {},
+    "Data": {},
+    "Bug": {},
+    "Proteo": {},
+    "Rodeo": {},
+    "Atom": {}
+  }
+}

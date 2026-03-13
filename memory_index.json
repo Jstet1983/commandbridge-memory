@@ -1,0 +1,15 @@
+{
+  "repository": "commandbridge-memory",
+  "version": "1.0",
+  "memory_priority": [
+    "controller/commandbridge_controller.json",
+    "enforcement/commandbridge_enforcement_checklist.json",
+    "prompts/expert_agent_master_prompt.txt"
+  ],
+  "memory_categories": [
+    "cases",
+    "forensic",
+    "statutes",
+    "research"
+  ]
+}

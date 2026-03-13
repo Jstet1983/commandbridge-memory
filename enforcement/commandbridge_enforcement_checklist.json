@@ -1,0 +1,8 @@
+{
+  "write_standard": "cb_write_clip_only",
+  "rules": [
+    "execution_grade_outputs_only",
+    "no_silent_failure",
+    "traceable_sources_required"
+  ]
+}
