@@ -7,6 +7,11 @@
         {
             "timestamp": "2026-03-18T00:18:29.092840",
             "entry": "Mistral analyzed 12 log entries."
+        },
+        {
+            "timestamp": "2026-03-18T00:24:49.256155",
+            "event": "Engine initialized"
         }
-    ]
+    ],
+    "last_initialized": "2026-03-18T00:24:49.256138"
 }
