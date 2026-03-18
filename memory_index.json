@@ -1,20 +1,7 @@
 {
-    "repository": "commandbridge-memory",
-    "version": "1.0",
-    "memory_priority": [
-        "controller/commandbridge_controller.json",
-        "enforcement/commandbridge_enforcement_checklist.json",
-        "prompts/expert_agent_master_prompt.txt"
-    ],
-    "memory_categories": [
-        "cases",
-        "forensic",
-        "statutes",
-        "research"
-    ],
     "memory_entries": [
         {
-            "timestamp": "2026-03-18T00:05:38.157037",
+            "timestamp": "2026-03-18T00:08:48.088904",
             "entry": "Mistral analyzed 12 log entries."
         }
     ]
